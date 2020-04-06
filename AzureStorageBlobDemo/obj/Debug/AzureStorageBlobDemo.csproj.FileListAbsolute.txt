@@ -1,0 +1,28 @@
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe.config
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.pdb
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.xml
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.xml
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.csprojAssemblyReference.cache
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.csproj.CopyComplete
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Desktop/AzureDemoProjects-master/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.pdb
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe.config
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.pdb
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.xml
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.xml
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.csprojAssemblyReference.cache
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.csproj.CopyComplete
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Desktop/AboutXtreme/City of Fremont/UploadDemoMetadata/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.pdb

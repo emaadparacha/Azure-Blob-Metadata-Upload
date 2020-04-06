@@ -1,0 +1,28 @@
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe.config
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.pdb
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.xml
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.xml
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureBlobMetadataUpload.csprojAssemblyReference.cache
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureBlobMetadataUpload.csproj.CopyComplete
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Desktop/Metadata Upload Demo/AzureStorageBlobDemo/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.pdb
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe.config
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/AzureStorageBlobDemo.pdb
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Microsoft.Azure.KeyVault.Core.xml
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Microsoft.WindowsAzure.Storage.xml
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/obj/Debug/AzureBlobMetadataUpload.csprojAssemblyReference.cache
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/obj/Debug/AzureBlobMetadataUpload.csproj.CopyComplete
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.exe
+/Users/CommunistPanda/Documents/GitHub/Azure-Blob-Upload-Metadata/AzureStorageBlobDemo/obj/Debug/AzureStorageBlobDemo.pdb
