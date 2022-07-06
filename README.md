@@ -11,3 +11,4 @@ This demo uploads the SRT file as "DemoUpload" to container "democontainer". The
 
 The date and time are extracted from the 4th line of the SRT file, and latitude and longitude are extracted from the 5th line. The date is also converted from numeric form to text form. The coordinates are fed into Azure Maps, and a JSON file is read where the corresponding cross street is calculated. At the end, metadata is applied to the blob and it is uploaded to Blob Storage.
 
+
